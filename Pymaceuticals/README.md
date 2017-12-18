@@ -2,9 +2,9 @@
 # Analysis
 
 ## Observed Trends
-## 1. Except Capomulin, other 3 drugs have more or less similar Tumor Response to the Treatment.
-## 2. MetsStatic Spread is also less for Capomulin when compared to other 3 drugs Infubinol, Ketapril, and Placebo.
-## 3. Ketapril has the highest % of Tumor Volume change which is 46%.
+### 1. Except Capomulin, other 3 drugs have more or less similar Tumor Response to the Treatment.
+### 2. MetsStatic Spread is also less for Capomulin when compared to other 3 drugs Infubinol, Ketapril, and Placebo.
+### 3. Ketapril has the highest % of Tumor Volume change which is 46%.
 
 ```python
 # import modules
