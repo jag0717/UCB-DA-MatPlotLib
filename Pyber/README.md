@@ -1,4 +1,8 @@
-
+# Analysis
+## Observed Trends
+### 1. Average Fare is being low in Rural Areas, Medium in Suburban and comparatively High in Urban.
+### 2. Number of people opting for Rides has been very low in Rural areas when compared to Suburban and Urban Areas.
+### 3. Maximum number of drivers are from Urban.
 
 ```python
 # Import modules
